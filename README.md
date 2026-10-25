@@ -1,7 +1,7 @@
 # FORMULA_HUB
 
 ## WHAT WE ARE MAKING
-Me and my partner are making a website that has all the commonly used formulas on it. The goal is to make an all in one tool that can help anyone solve formulass that they may encounter. The formulas we are adding in this website are mainly math and Physics related, but in the futur we might add other formulas as well
+Me and my partner are making a website that has all the commonly used formulas on it. The goal is to make an all in one tool that can help anyone solve formulas that they may encounter. The formulas we are adding in this website are mainly math and Physics related, but in the futur we might add other formulas as well
 
 
 
